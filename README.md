@@ -7,10 +7,12 @@
 
 - 🌱 I’m currently learning **Solidity, Web3**
 
+- 📫 How to reach me **mailer3261@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mailer3261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mailer3261" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-g-03b57267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-g-03b57267/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-g-03b57267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-g-03b57267/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
