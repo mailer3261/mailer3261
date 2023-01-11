@@ -16,15 +16,22 @@
 
 <h3 align="left">On-hand Experience with following Tools and Libraries: </h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- Javascript
-- Solidity            - Web3.JS
+- JavaScript
+- Solidity
 - ReactJS
 - NodeJS
 - Web3.JS
 - Ethers.JS
 - Remix
-- Metamask          
-- Github
+- Meta mask
+- GitHub
+
+Projects Worked upon: -
+•	NFT Marketplace.
+•	Blockchain Explorer for an EVM-compatible private Blockchain.
+•	ICO of an ERC20 Token with a Predefined Vesting Schedule.
+•	NodeJS-based Wallet Project
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
