@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity, Web3**
+- 🌱 Always Looking for opportunities where I can put my interests and learning’s into practice and grow along. 
 
 - 📫 How to reach me **mailer3261@gmail.com**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">On-hand Experience with following Tools and Libraries: </h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- JavaScript
+- JavaScript 
 - Solidity
 - ReactJS
 - NodeJS
@@ -26,7 +26,9 @@
 - Meta mask
 - GitHub
 
-Projects Worked upon: -
+<h3 align="left">Projects Worked upon: - </h3>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 •	NFT Marketplace.
 •	Blockchain Explorer for an EVM-compatible private Blockchain.
 •	ICO of an ERC20 Token with a Predefined Vesting Schedule.
