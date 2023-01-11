@@ -16,15 +16,14 @@
 
 <h3 align="left">On-hand Experience with following Tools and Libraries: </h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - Javascript
-- Solidity
+- Solidity            - Web3.JS
 - ReactJS
 - NodeJS
 - Web3.JS
 - Ethers.JS
 - Remix
-- Metamask
+- Metamask          
 - Github
 
 <h3 align="left">Connect with me:</h3>
